@@ -32,7 +32,7 @@
   "dependencies": {
     "temp": "~0.6.0",
     "fstream-ignore": "0.0.7",
-    "tar": "~0.1.18",
+    "tar": "~3.0.0",
     "async": "~0.2.9",
     "mime": "~1.2.11",
     "rc": "~0.3.2",
